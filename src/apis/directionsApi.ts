@@ -7,6 +7,6 @@ export const directionsApi = axios.create({
         geometries: 'geojson',
         overview: 'simplified',
         steps: false,
-        access_token: 'pk.eyJ1IjoidmljdG9ybnVuZXoiLCJhIjoiY202dmVvZ2QyMDgwejJqb2xhNjU1d21rcSJ9.Z5uVeIF5FQAHSg7I-BMCAA'
+        access_token: ''
     }
 })
